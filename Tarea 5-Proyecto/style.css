@@ -1,0 +1,66 @@
+
+.mensaje{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(216, 216, 68);
+    height: 5vh;
+    padding: 15px 0px 0px 15px;
+    font-family: Arial;
+    font-weight: bold;
+    
+}
+/* #wrapper{
+    height: 100vh;
+} */
+header{
+    height: 20vh;
+    background-color: violet;
+}
+nav{
+    height: 7vh;
+    background-color: tomato;
+}
+form label{
+    font-weight: bolder;
+}
+form input,textarea{
+    border-style: groove;
+}
+
+footer{
+    height: 7vh;
+}
+#logo img{
+    width: 15vw;
+}
+#cart img{
+    width: 3vw;
+}
+#imgMain1{
+    background-image: url(./img/veterinaria.jpg);
+    
+    background-size: cover;
+    width: 30vw;
+    height: 40vh;
+}
+#imgMain2{
+    background-image: url(./img/jugueteria.jpg);
+    
+    background-size: cover;
+    width: 30vw;
+    height: 40vh;
+}
+#mediosdepago img{
+    width: 5vw;
+}
+/* #efecto :hover{
+    border-style: groove;
+    background-color: rgb(102, 201, 102);
+    transition: 1s;
+
+}  */
+#contactLogos img{
+    width: 30px;
+
+}
